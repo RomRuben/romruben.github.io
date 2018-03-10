@@ -1,0 +1,21 @@
+
+- name: "Experience"
+  link: "experience"
+
+- name: "Education"
+  link: "education"
+
+- name: "Publications & Conferences"
+  link: "pubconf"
+
+- name: "Awars"
+  link: "awars"
+
+- name: "Courses & Certifications"
+  link: "courses"
+
+- name: "Skills"
+  link: "skills"
+
+- name: "Projects"
+  link: "projects"

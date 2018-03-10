@@ -1,9 +1,11 @@
-highlighter: rouge
-permalink: /:title
+title: "Rubén Romero Córdoba"
+url: "localhost:4000"
+baseurl: ""
 
-url:
-baseurl:
+markdown: kramdown
+
+tracking_id: #
 
 sass:
-  sass_dir: public/css
-  style: :compressed
+    style: compressed
+    sass_dir: _sass
